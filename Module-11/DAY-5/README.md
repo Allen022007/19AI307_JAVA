@@ -13,8 +13,8 @@ d.	Iterate through the map using a for-each loop and display the entries
  ```
 /*
 Program to implement a HASHMAP
-Developed by: DHANUMALYA D
-RegisterNumber: 212222230030
+Developed by: Kavinraja D
+RegisterNumber: 212222240047
 */
 ```
 

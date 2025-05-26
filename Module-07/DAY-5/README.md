@@ -20,8 +20,8 @@ To implement method overloading in Java to calculate the sum of two and three nu
  ```
 /*
 Program to implement a Method Overloading in Java
-Developed by: DHANUMALYA D
-RegisterNumber: 212222230030
+Developed by: Kavinraja D
+RegisterNumber: 212222240047
 */
 ```
 

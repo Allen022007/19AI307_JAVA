@@ -24,8 +24,8 @@ b.	Call the methods to get input and display results.
  ```
 /*
 Program to implement a Multiple Inheritance
-Developed by: DHANUMALYA D
-RegisterNumber: 212222230030  
+Developed by: Kavinraja D
+RegisterNumber: 212222240047
 */
 ```
 
