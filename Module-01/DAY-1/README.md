@@ -21,7 +21,7 @@ To create a class named 'Student' with String variable 'name' and String variabl
 /*
 Program to implement a class & objects using Java
 Developed by: Kavinraja D
-RegisterNumber: 212222240047
+RegisterNumber: 212222240047 
 */
 ```
 

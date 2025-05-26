@@ -17,8 +17,8 @@ To develop a java program use append() method concatenates the given argument wi
  ```
 /*
 Program to implement a String Buffer using Java
-Developed by: DHANUMALYA D
-RegisterNumber: 212222230030
+Developed by: Kavinraja D
+RegisterNumber: 212222240047
 */
 ```
 
