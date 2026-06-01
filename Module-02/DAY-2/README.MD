@@ -17,20 +17,12 @@ a)	Create an instance of the `addition` class called `ad`
 b)	Call the `display(8, 9)` method on the `ad` object
 7.	End
 
-
-
-
-
-
 ## PROGRAM:
- ```
-/*
-Program to implement a access modifiers using Java
-Developed by: Kavinraja D
-RegisterNumber: 212222240047
-*/
 ```
-
+Program to implement a variable and operators using Java
+Developed by: Allen Johnston Ozario W
+RegisterNumber: 212224110004 
+```
 ## Sourcecode.java:
 
 ```
@@ -49,11 +41,6 @@ public class A
 }
 
 ```
-
-
-
-
-
 
 ## OUTPUT:
 
