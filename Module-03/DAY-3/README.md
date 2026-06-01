@@ -13,18 +13,12 @@ To Create a java program use replace() method replaces the given String from the
 5.	Use the `replace()` method to replace characters from index 1 to 3 with "Java"
 6.	Print the modified string using `sb.toString()`
 7.	End
-
-
-
-
-
-
 ## PROGRAM:
  ```
 /*
-Program to implement a String Builder using Java
-Developed by: Kavinraja D
-RegisterNumber: 212222240047
+Program to implement a variable and operators using Java
+Developed by: Allen Johnston Ozario W
+RegisterNumber: 212224110004 
 */
 ```
 
